@@ -40,7 +40,7 @@ PR 제목 형식: 해당 주차 및 스터디순번  - 본인 이름
 | 주차  | 주제                                                                                                                               |
 |-----|----------------------------------------------------------------------------------------------------------------------------------|
 | 1주차 | [브라우저 이벤트소개](https://ko.javascript.info/introduction-browser-events) , [버블링과 캡처링](https://ko.javascript.info/bubbling-and-capturing) |
-| 2주차 |                                                                                                                                  |
+| 2주차 |  [콜백](https://ko.javascript.info/callbacks) , [프라미스](https://ko.javascript.info/promise-basics)                                                                                                                             |
 ---
 
 
